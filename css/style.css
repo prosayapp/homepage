@@ -1692,13 +1692,21 @@ p.para {
 }
 .text-con-video-b {
 	color: #fff;
-	padding: 100px 0 100px 0;
+	/*padding: 20px 0 20px 0;*/
 	/*
 	background: rgba(0, 0, 0, 0) linear-gradient(to right, #0079fc, #1fd9e6) repeat scroll 0 0;
 	*/
 	/*background: rgba(0, 0, 0, 0) linear-gradient(to right, #0079fc, #1fd9e6) repeat scroll 0 0;;
 	*/
-	background: #009ee4;
+	background: #38abe5;
+}
+.video_title {
+	color: #fff;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    letter-spacing: 15px;
+    margin-bottom: 20px;
 }
 .text-con-video {
 	color: #fff;
