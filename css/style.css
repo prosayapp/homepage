@@ -70,7 +70,7 @@ body {
 	height: 100% !important;
 	font-size: 14px;
 	color: #333333;
-	line-height: 28px;
+	/*line-height: 28px;*/
 	margin: 0px;
 	padding: 0px;
 }
@@ -81,7 +81,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #333333;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Locator-Bold' !important;
 	font-weight: 500;
 	text-transform: uppercase;
 }
@@ -1692,7 +1692,6 @@ p.para {
 }
 .text-con-video-b {
 	color: #fff;
-	/*padding: 20px 0 20px 0;*/
 	/*
 	background: rgba(0, 0, 0, 0) linear-gradient(to right, #0079fc, #1fd9e6) repeat scroll 0 0;
 	*/
